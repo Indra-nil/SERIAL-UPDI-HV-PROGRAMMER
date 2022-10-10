@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "CP2105-F01-GM")(type "KiCad")(uri "${KIPRJMOD}/libraries/CP2105-F01-GM.kicad_sym")(options "")(descr ""))
+  (lib (name "JS202011JCQN")(type "KiCad")(uri "${KIPRJMOD}/libraries/JS202011JCQN.kicad_sym")(options "")(descr ""))
+  (lib (name "JS203011SCQN")(type "KiCad")(uri "${KIPRJMOD}/libraries/JS203011SCQN.kicad_sym")(options "")(descr ""))
+)
